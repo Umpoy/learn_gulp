@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Umpoy/learn_gulp#readme",
   "devDependencies": {
-    "gulp": "^4.0.1"
+    "gulp": "^4.0.1",
+    "gulp-imagemin": "^5.0.3"
   }
 }
